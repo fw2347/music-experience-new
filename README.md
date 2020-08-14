@@ -4,7 +4,7 @@
 - Github Page: 
     - https://fw2347.github.io/music-experience-new/
 - YouTube Video:
-    - www
+    - https://youtu.be/iHCty-zHl5Y
 ## Design Executive Summary:
 - Our group used Vue.js and Firebase to create an interactive learning website on the topic of music from three different perspectives:
     - Music Experiment (note identification, etc)
